@@ -27,7 +27,7 @@ run `npm i` in the CLI. run `npm run seed` to seed the database. run the server 
   
   ## Usage
 
-[Click here to watch the demo]().
+[Click here to watch the demo](https://drive.google.com/file/d/1A8PAK1tsfCiPSv-prMLP31YgVJcmvK-0/view?usp=sharing).
 
 andy@andy.com
 
